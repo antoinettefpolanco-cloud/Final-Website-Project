@@ -1,0 +1,48 @@
+.body {
+     background-image: url("https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI");
+}
+
+
+body {
+    background-color: rgb(248, 246, 219);
+}
+
+.header {
+    margin: 300px;
+    margin-left: 750px;
+    color: rgb(233, 221, 172);
+}
+
+.nav {
+    display: flex;
+    flex-direction: column;;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.nav #officers {
+    background-color: rgb(218, 216, 188);
+    padding: 5px;
+    margin-bottom:5px;
+    border: 2px solid rgb(218, 216, 188);
+    border-radius: 5px;
+    color: rgb(114, 112, 91);
+}
+
+.nav #shows {
+    background-color: rgb(218, 216, 188);
+    padding: 5px;
+    margin-bottom: 5px;
+    border: 2px solid rgb(218, 216, 188);
+    border-radius: 5px;
+    color: rgb(114, 112, 91);
+}
+
+.nav #home {
+    background-color: rgb(218, 216, 188);
+    padding: 5px;
+    border: 2px solid rgb(218, 216, 188);
+    border-radius: 5px;
+    color: rgb(114, 112, 91);
+}
