@@ -2,15 +2,14 @@
      background-image: url("https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI");
 }
 
-
 body {
-    background-color: rgb(248, 246, 219);
+    background-color: #FDF4CD;
 }
 
 .header {
-    margin: 300px;
-    margin-left: 750px;
-    color: rgb(233, 221, 172);
+    text-align: center;
+    color: #FCEFB4;
+
 }
 
 .nav {
@@ -22,27 +21,41 @@ body {
 }
 
 .nav #officers {
-    background-color: rgb(218, 216, 188);
+    background-color: #FFEA9D;
     padding: 5px;
     margin-bottom:5px;
-    border: 2px solid rgb(218, 216, 188);
+    border: 2px solid #F9DC5C;
     border-radius: 5px;
-    color: rgb(114, 112, 91);
+    color: #E1AD01;
+    text-align: center;
+}
+
+.header2 {
+    color: #C78C06;
+    text-align: center;
 }
 
 .nav #shows {
-    background-color: rgb(218, 216, 188);
+    background-color: #FFEA9D;
     padding: 5px;
     margin-bottom: 5px;
-    border: 2px solid rgb(218, 216, 188);
+    border: 2px solid #F9DC5C;
     border-radius: 5px;
-    color: rgb(114, 112, 91);
+    color: #E1AD01;
+    text-align: center;
+}
+
+.header3 {
+    color: #C78C06;
+    text-align: center;
 }
 
 .nav #home {
-    background-color: rgb(218, 216, 188);
+    background-color: #FFEA9D;
     padding: 5px;
-    border: 2px solid rgb(218, 216, 188);
+    margin-bottom: 5px;
+    border: 2px solid #F9DC5C;
     border-radius: 5px;
-    color: rgb(114, 112, 91);
+    color: #E1AD01;
+    text-align: center;
 }
