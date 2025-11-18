@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Slabo+27px&family=Zeyada&display=swap');
+
 .body {
      background-image: url("https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI");
 }
@@ -9,7 +11,8 @@ body {
 .header {
     text-align: center;
     color: #FCEFB4;
-
+       font-size: 35px;
+    font-family: "Dancing Script";
 }
 
 .nav {
@@ -18,12 +21,13 @@ body {
     position: absolute;
     top: 0px;
     left: 0px;
+    font-size: 23px;
+    font-family: "Zeyada", cursive;
 }
 
 .nav #officers {
     background-color: #FFEA9D;
-    padding: 5px;
-    margin-bottom:5px;
+    margin-bottom: 5px;
     border: 2px solid #F9DC5C;
     border-radius: 5px;
     color: #E1AD01;
@@ -32,13 +36,23 @@ body {
 
 .header2 {
     color: #C78C06;
+    font-family: "Dancing Script";
     text-align: center;
+}
+
+.header2 p {
+    font-size: 18px;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    font-family: "Slabo 27px", serif;
 }
 
 .nav #shows {
     background-color: #FFEA9D;
-    padding: 5px;
     margin-bottom: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
     border: 2px solid #F9DC5C;
     border-radius: 5px;
     color: #E1AD01;
@@ -48,11 +62,11 @@ body {
 .header3 {
     color: #C78C06;
     text-align: center;
+    font-family: "Dancing Script";
 }
 
 .nav #home {
     background-color: #FFEA9D;
-    padding: 5px;
     margin-bottom: 5px;
     border: 2px solid #F9DC5C;
     border-radius: 5px;
