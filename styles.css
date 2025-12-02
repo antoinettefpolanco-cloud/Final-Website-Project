@@ -101,3 +101,14 @@ body {
     font-size: 20px;
     font-family: "Slabo 27px", serif;
 }
+
+.ourshows p {
+    display: flex;
+    flex-direction: column;
+     
+}
+.p {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
