@@ -17,7 +17,7 @@ body {
 
 hr {
     height: 5px;
-    background-color: #eab538;
+    background-color: #c8d8ed;
 }
 
 .nav {
@@ -138,7 +138,13 @@ hr {
     flex-direction: column;
      
 }
-.p {
+.iwct {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.atfss {
     display: flex;
     flex-direction: row;
     justify-content: left;
