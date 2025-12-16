@@ -15,6 +15,11 @@ body {
     font-family: "Dancing Script";
 }
 
+.header p {
+    color: #e3d38c;
+    font-size: 25px;
+}
+
 hr {
     height: 5px;
     background-color: #c8d8ed;
@@ -55,7 +60,7 @@ hr {
 }
 
 .header2 p {
-    font-size: 18px;
+    font-size: 20px;
     text-align: left;
     display: flex;
     flex-direction: row;
