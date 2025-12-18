@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Slabo+27px&family=Zeyada&display=swap');
 
 .body {
-     background-image: url("https://fastly.picsum.photos/id/43/1280/831.jpg?hmac=glK-rQ0ppFClW-lvjk9FqEWKog07XkOxJf6Xg_cU9LI");
+     background-image: url("group.jpg");
 }
 
 body {
@@ -153,4 +153,24 @@ hr {
     display: flex;
     flex-direction: row;
     justify-content: left;
+}
+
+.image {
+    width: 300px;
+}
+
+.itza {
+    width: 500px;
+}
+
+#image {
+    width:500px;
+}
+
+#iwct {
+    width: 505px
+}
+
+.bts {
+    width: 400px;
 }
